@@ -2,7 +2,7 @@
 
 ### 🛡️ CyberSecurity Enthusiast | Certified Ethical Hacker | SOC Analyst
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athulkrishnan550@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athulkrishnan1506@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athulkrishnan550)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wolfhunter007)
 
@@ -16,7 +16,7 @@ I'm a passionate **Cybersecurity professional** focused on ethical hacking, thre
 - - 🛡️ Experienced in **SOC operations, log analysis & threat detection**
   - - 🌱 Currently expanding skills in **Blue Team & Red Team operations**
     - - 🏆 Ranked **Top 4%** on TryHackMe with **141 rooms completed**
-      - - 📧 Reach me at: **athulkrishnan550@gmail.com**
+      - - 📧 Reach me at: **athulkrishnan1506@gmail.com**
        
         - ---
 
