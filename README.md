@@ -1,17 +1,10 @@
-<h1 align="center">👋 Hi, I'm Athul Krishnan</h1>h1>
-<h3 align="center">🛡️ CyberSecurity Enthusiast | Certified Ethical Hacker | SOC Analyst</h3>h3>
+# 👋 Hi, I'm Athul Krishnan
 
-<p align="center">
-  <a href="mailto:athulkrishnan550@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>a>
-    <a href="https://github.com/athulkrishnan550">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>a>
-      <a href="https://tryhackme.com/p/wolfhunter007">
-          <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-      </a>a>
-</p>p>
+### 🛡️ CyberSecurity Enthusiast | Certified Ethical Hacker | SOC Analyst
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athulkrishnan550@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athulkrishnan550)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wolfhunter007)
 
 ---
 
@@ -36,7 +29,7 @@ I'm a passionate **Cybersecurity professional** focused on ethical hacking, thre
         ![SOC Analysis](https://img.shields.io/badge/SOC%20Analysis-darkblue?style=flat-square)
         ![Threat Detection](https://img.shields.io/badge/Threat%20Detection-purple?style=flat-square)
         ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-green?style=flat-square)
-        ![Web Application Security](https://img.shields.io/badge/Web%20App%20Security-teal?style=flat-square)
+        ![Web App Security](https://img.shields.io/badge/Web%20App%20Security-teal?style=flat-square)
         ![Network Security](https://img.shields.io/badge/Network%20Security-navy?style=flat-square)
 
         ### 🧰 Tools & Technologies
@@ -73,55 +66,52 @@ I'm a passionate **Cybersecurity professional** focused on ethical hacking, thre
         > >
         > > ## 🧠 TryHackMe
         > >
-        > > <p align="center">
-          <img src="https://tryhackme-badges.s3.amazonaws.com/wolfhunter007.png" alt="TryHackMe Badge"/>
-          </p>
-
-          | Stat | Value |
-        |------|-------|
-        | 🏆 Rank | 73,486 — **Top 4%** Globally |
-        | 🚪 Rooms Completed | **141** |
-        | 🎖️ Badges Earned | **21** |
-        | 🔥 Current Streak | **13 Days** |
-
-        ### 🎖️ Notable Badges
-        | Badge | Description |
-        |-------|-------------|
-        | 🧠 SOC Apprentice | Explored how a SOC team operates from inside |
-        | 🛡️ Defensive Toolsmith | Mastered essential SOC tools for detection |
-        | 🌐 Networking Nerd | Completed the Network Fundamentals module |
-        | 🕸️ OWASP Top 10 | Understanding every OWASP vulnerability |
-        | 💉 Metasploitable | Expert in using Metasploit framework |
-        | 🔵 Blue | Hacking into Windows via EternalBlue |
-        | 🗡️ Sword Apprentice | Completed SQLMap room |
-        | 🔐 Burp'ed | Completed the Burp Suite module |
-        | 🏁 Skilled Navigator | Finished the Eviction challenge |
-        | 🖥️ Pentesting Principles | Completed Intro to Pentesting module |
-        | 🌍 Intro to Web Hacking | Completed Introduction to Web Hacking module |
-
-        ### 🗺️ Skill Paths Explored
-        - ✅ Foundational Security
-        - - ✅ Security Analyst
-          - - ✅ Penetration Tester
-            - - ✅ Security Engineer
-             
-              - ---
-
-              ## 📊 GitHub Stats
-
-              <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=athulkrishnan550&show_icons=true&theme=dark" alt="GitHub Stats" />
-                  <br/>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkrishnan550&layout=compact&theme=dark" alt="Top Languages" />
-              </p>p>
-
-              ---
-
-              ## 🏆 Certifications
-              - ✅ Certified Ethical Hacker (CEH)
-             
-              - ---
-
-              <p align="center">
-                <i>"The quieter you become, the more you are able to hear." – Kali Linux motto</i>i>
-              </p>p></i>
+        > > [![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/wolfhunter007.png)](https://tryhackme.com/p/wolfhunter007)
+        > >
+        > > | Stat | Value |
+        > > |------|-------|
+        > > | 🏆 Rank | 73,486 — **Top 4%** Globally |
+        > > | 🚪 Rooms Completed | **141** |
+        > > | 🎖️ Badges Earned | **21** |
+        > > | 🔥 Current Streak | **13 Days** |
+        > >
+        > > ### 🎖️ Notable Badges
+        > >
+        > > | Badge | Description |
+        > > |-------|-------------|
+        > > | 🧠 SOC Apprentice | Explored how a SOC team operates from inside |
+        > > | 🛡️ Defensive Toolsmith | Mastered essential SOC tools for detection |
+        > > | 🌐 Networking Nerd | Completed the Network Fundamentals module |
+        > > | 🕸️ OWASP Top 10 | Understanding every OWASP vulnerability |
+        > > | 💉 Metasploitable | Expert in using Metasploit framework |
+        > > | 🔵 Blue | Hacking into Windows via EternalBlue |
+        > > | 🗡️ Sword Apprentice | Completed SQLMap room |
+        > > | 🔐 Burp'ed | Completed the Burp Suite module |
+        > > | 🏁 Skilled Navigator | Finished the Eviction challenge |
+        > > | 🖥️ Pentesting Principles | Completed Intro to Pentesting module |
+        > > | 🌍 Intro to Web Hacking | Completed Introduction to Web Hacking module |
+        > >
+        > > ### 🗺️ Skill Paths Explored
+        > >
+        > > - ✅ Foundational Security
+        > > - - ✅ Security Analyst
+        > >   - - ✅ Penetration Tester
+        > >     - - ✅ Security Engineer
+        > >      
+        > >       - ---
+        > >
+        > > ## 📊 GitHub Stats
+        > >
+        > > ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athulkrishnan550&show_icons=true&theme=dark)
+        > >
+        > > ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulkrishnan550&layout=compact&theme=dark)
+        > >
+        > > ---
+        > >
+        > > ## 🏆 Certifications
+        > >
+        > > - ✅ Certified Ethical Hacker (CEH)
+        > >
+        > > - ---
+        > >
+        > > > *"The quieter you become, the more you are able to hear." – Kali Linux motto*
